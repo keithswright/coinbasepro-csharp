@@ -20,5 +20,6 @@ namespace CoinbasePro.Services.Products.Models
         public decimal BaseMaxSize { get; set; }
 
         public decimal QuoteIncrement { get; set; }
+        public decimal BaseIncrement { get; set; }
     }
 }
